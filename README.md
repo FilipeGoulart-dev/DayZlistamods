@@ -2,9 +2,9 @@
 
 # DAYZ · CENTRAL DE MODS
 
-**Curadoria de 28 mods do Steam Workshop, organizados em 7 categorias, em uma página temática única.**
+**Curadoria de 30 mods do Steam Workshop, organizados em 7 categorias, em uma página temática única.**
 
-[![mods](https://img.shields.io/badge/MODS-28-7d8f4e?style=flat-square)](https://steamcommunity.com/app/221100/workshop/)
+[![mods](https://img.shields.io/badge/MODS-30-7d8f4e?style=flat-square)](https://steamcommunity.com/app/221100/workshop/)
 [![categorias](https://img.shields.io/badge/CATEGORIAS-7-d3b64f?style=flat-square)](#-categorias)
 [![inscri%C3%A7%C3%B5es](https://img.shields.io/badge/INSCRI%C3%87%C3%95ES%20SOMADAS-%2B316%20mil-b5483a?style=flat-square)](https://steamcommunity.com/app/221100/workshop/)
 [![licen%C3%A7a](https://img.shields.io/badge/C%C3%93DIGO-MIT-blue?style=flat-square)](LICENSE)
@@ -20,7 +20,7 @@
 
 Uma **lista de sugestão de mods** para [DayZ](https://store.steampowered.com/app/221100/DayZ/) publicada como página HTML autocontida (`index.html`):
 
-- 🖼️ **Imagens reais** — preview oficial de cada mod no Steam Workshop, embutido em base64 (a página funciona 100% offline);
+- 🖼️ **Imagens reais** — previews oficiais do Steam Workshop; a maioria está embutida em base64 e funciona offline, enquanto os dois mods mais recentes carregam a miniatura oficial online;
 - 📝 **Descrições em pt-BR** resumindo o que cada mod entrega de fato;
 - 🔗 **Clique no card → página oficial do mod** na Steam Workshop (nova aba);
 - 📊 Dados reais por mod: inscritos, avaliações, tamanho e dependências (`Community Framework`, `Code Lock`...);
@@ -34,9 +34,9 @@ Uma **lista de sugestão de mods** para [DayZ](https://store.steampowered.com/ap
 
 | Categoria | Mods | O que cobre |
 |---|:--:|---|
-| 🏠 Casas & Bases | 5 | Construção *deployable* dentro do jogo (kits, estágios, garagens, Code Lock) |
+| 🏠 Casas & Bases | 6 | Construção *deployable* dentro do jogo (kits, estágios, garagens, fortificações e Code Lock) |
 | 🗺️ Assets de Mapa | 5 | Objetos estáticos para DayZ Editor / Object Builder |
-| 🚗 Veículos | 6 | Carros, caminhões, pacotes apocalípticos e planador |
+| 🚗 Veículos | 7 | Carros, caminhões, pacotes apocalípticos e planador |
 | 👕 Roupas & Equipamentos | 5 | Sets de vestuário, proteção NBC/QBRN e equipamento tático |
 | 🔒 Armazenamento & Segurança | 2 | Cofres walk-in e prateleiras modulares |
 | 💧 Água & Recursos | 2 | Poços e reservatórios funcionais |
